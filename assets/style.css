@@ -1,0 +1,15 @@
+/*RESET CSS*/
+*, ::before, ::after{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Téléphone */
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
+}
+
+/* Tablette */
+@media only screen and (min-device-width : 768px) and (max-device-width : 991px) {
+}
+
